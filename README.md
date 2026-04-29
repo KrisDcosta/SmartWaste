@@ -1,4 +1,4 @@
-# SnapTrash — Restaurant Waste Intelligence Platform
+# SmartWaste — Restaurant Waste Intelligence Platform
 
 Real-time CV + LLM pipeline that scans commercial waste bins, classifies food and plastic waste, scores sustainability (1–4 scale), and triggers voice + email alerts when plastic thresholds are exceeded.
 
