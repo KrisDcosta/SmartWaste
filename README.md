@@ -2,7 +2,7 @@
 
 Real-time CV + LLM pipeline that scans commercial waste bins, classifies food and plastic waste, scores sustainability (1–4 scale), and triggers voice + email alerts when plastic thresholds are exceeded.
 
-**DataHacks 2025 Submission**
+**DataHacks 2026 Submission**
 
 ---
 
